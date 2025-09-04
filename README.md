@@ -1,4 +1,4 @@
-Copyright (c) [Year] [Roy burson 2025]
+Copyright (c) [2025] [Roy burson]
 
 This work is based on or derived from contributions by xAI, including but not limited to the Grok-1 model licensed under Apache 2.0.
 
